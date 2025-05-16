@@ -69,7 +69,7 @@ window.addEventListener('scroll', scollActive);
      });
 
      document.getElementById('btn').addEventListener('click', function() {
-      alert(""");
+     
   });
   
 
